@@ -3,5 +3,6 @@
 
 #push code from branch1
 
-
 #push code from branch 2
+
+branch b1 and b2 are now merged together
